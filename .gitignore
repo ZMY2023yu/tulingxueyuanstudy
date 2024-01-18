@@ -1,0 +1,10 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略 build 目录
+build/
+
+# 忽略特定文件
+.idea/
+
+*.iml
